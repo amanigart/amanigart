@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently working as a junior .NET Analyst Developer at [ELCIA Belgium](https://www.elcia.com/en/) for the [Ramasoft](https://www.elcia.com/en/products/ramasoft/) team (desktop app for windows manufacturing).
+Currently working as a junior .NET Analyst Developer at [ELCIA Belgium](https://www.elcia.com/en/) for the [Ramasoft](https://www.elcia.com/en/products/ramasoft/) team (desktop app for windows manufacturing).
 
 
 
