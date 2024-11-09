@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently working as a junior .NET Analyst Developer at ELCIA Belgium for the Ramasoft Product/Team, a desktop .NET application for windows manufacturing. 
+-> [Ramasoft](https://www.elcia.com/en/products/ramasoft/)
+
+
+
+
 <!--
 **amanigart/amanigart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
