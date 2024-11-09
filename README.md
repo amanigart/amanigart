@@ -4,7 +4,7 @@ Currently working as a junior .NET Analyst Developer at [ELCIA Belgium](https://
 
 I work both on front-end and back-end parts, and I'm also starting to work on CNC machine controls for customers factories.
 
-### Technology stack at work:
+### :factory: Technology stack at work:
 + .NET Framework (4.6.2, 6.0, 8.0)
 + C#
 + VB.NET
@@ -16,7 +16,7 @@ I work both on front-end and back-end parts, and I'm also starting to work on CN
 + Azure
 + VSIX
 
-### Outside work, I'm also interrested by:
+### :house: I'm also interrested by:
 + APIs (.NET Core)
 + Micro-services
 + gRPC
@@ -26,6 +26,8 @@ I work both on front-end and back-end parts, and I'm also starting to work on CN
 + Vocal Recognition
 + and more...
 
+### :seedling: 2025 learning goals: 
+learning basics of C, write my first DSL, and my first interpreter.
 
 <!--
 **amanigart/amanigart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
