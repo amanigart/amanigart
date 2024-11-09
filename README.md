@@ -27,7 +27,9 @@ I work both on front-end and back-end parts, and I'm also starting to work on CN
 + and more...
 
 ### :seedling: 2025 learning goals: 
-learning basics of C, write my first DSL, and my first interpreter.
++ Learning basics of C
++ Write my first DSL
++ Write my first interpreter.
 
 <!--
 **amanigart/amanigart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
