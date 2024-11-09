@@ -6,12 +6,9 @@ I work both on front-end and back-end parts, and I'm also starting to work on CN
 
 ### :factory: Technology stack at work:
 + .NET Framework (4.6.2, 6.0, 8.0)
-+ C#
-+ VB.NET
-+ WPF
-+ Windows Forms
-+ ASP.NET
-+ SQL Server
++ C# / VB.NET
++ WPF / Windows Forms / ASP.NET
++ SQL Server / NHibernate / Enity Framework
 + Jenkins
 + Azure
 + VSIX
